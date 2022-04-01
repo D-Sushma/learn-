@@ -1,0 +1,24 @@
+.parent{
+    background-color:pink;
+    height: 400px;
+    width: 200px;
+}
+.header{
+    background-color: violet;
+    border: 1px solid black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/* dialog box type */
+.dialog{
+    background: purple ;
+    height: 80px;
+    width: 200px;
+    text-align: center;
+}
+.dialog input{
+    
+    margin-top:12%;
+}
